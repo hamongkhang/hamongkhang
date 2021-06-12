@@ -1,3 +1,14 @@
+<p align="center">
+  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
+</p>
+<hr>
+
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Ha Mong Khang 👋
+
+
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/YounesBS_?color=1DA1F2&logo=github&style=for-the-badge)](https://github.com/hamongkhang)    [![linkedin](https://img.shields.io/static/v1?label=Fllow%20me&message=%40Skype&color=blue&style=for-the-badge)](https://web.skype.com)    [![Facebook](https://img.shields.io/static/v1?label=Fllow%20me&message=In%20Facebook&color=blue&style=for-the-badge)](https://www.facebook.com/mongkhang.ha)
+
 ![Hey Pro, I'm Hà Mộng Khang. I'm a software developer, a maker and AI enthusiast. Check out my work](https://github.com/hamongkhang/hamongkhang/blob/f4eb03c766820e68d62feea977d666186b4adfdf/Cloud%20-%2048501.gif)
 ### Hi there, I'm [hamongkhang!](https://github.com/hamongkhang) 👋
 
@@ -74,6 +85,7 @@ _____________,'      ,',_____|      |    | |
 _____________|','   ///_/-------------/   |
               |HaMongKhang===========,'
 ```
+<img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 ```sh
 **- 🔭 I’m currently working on Passerellesnumeriques**
@@ -83,6 +95,7 @@ _____________|','   ///_/-------------/   |
 **- 💬 Ask me about anything**
 **- 📫 Job: software developer**
 ```
+<br />
 
 **Languages and Tools:**  
 
