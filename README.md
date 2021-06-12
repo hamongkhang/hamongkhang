@@ -10,7 +10,6 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/YounesBS_?color=1DA1F2&logo=github&style=for-the-badge)](https://github.com/hamongkhang)    [![linkedin](https://img.shields.io/static/v1?label=Fllow%20me&message=%40Skype&color=blue&style=for-the-badge)](https://web.skype.com)    [![Facebook](https://img.shields.io/static/v1?label=Fllow%20me&message=In%20Facebook&color=blue&style=for-the-badge)](https://www.facebook.com/mongkhang.ha)
 
 ![Hey Pro, I'm Hà Mộng Khang. I'm a software developer, a maker and AI enthusiast. Check out my work](https://github.com/hamongkhang/hamongkhang/blob/f4eb03c766820e68d62feea977d666186b4adfdf/Cloud%20-%2048501.gif)
-### Hi there, I'm [hamongkhang!](https://github.com/hamongkhang) 👋
 
 <p align="center">
  <img src="https://komarev.com/ghpvc/?username=priyanshumay" alt="priyanshumay" />
@@ -61,8 +60,6 @@
 <a href="https://github.com/https://github.com/psf/black"><img src="https://img.shields.io/badge/github-black.svg?style=for-the-badge&logo=github&logoColor=black&labelColor=ffffff" alt="github"></a>
 
 </p><br>
-
-### Hi, I'm Ha Mong Khang, a passionate self-taught software developer from Viet Nam.
 
 ```
                              \\\\\\\
