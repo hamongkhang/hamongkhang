@@ -107,7 +107,7 @@ _____________|','   ///_/-------------/   |
 
 
 <a href="https://github.com/hamongkhang?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hamongkhang&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hamongkhang&repo=AntHR_Mobile_App&theme=material-palenight" alt="Anurag's github stats" />
 </a>
   <br>
 <a href="https://github.com/hamongkhang?tab=repositories">
