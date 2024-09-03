@@ -9,7 +9,7 @@
 
 [![Twitter Follow](https://img.shields.io/static/v1?label=Fllow%20me&message=%40Github&color=blue&style=for-the-badge)](https://github.com/hamongkhang)    [![linkedin](https://img.shields.io/static/v1?label=Fllow%20me&message=%40Skype&color=blue&style=for-the-badge)](https://join.skype.com/invite/ufbCYiTejgnl)    [![Facebook](https://img.shields.io/static/v1?label=Fllow%20me&message=In%20Facebook&color=blue&style=for-the-badge)](https://www.facebook.com/mongkhang.ha)
 
-![Hey Pro, I'm Hà Mộng Khang. I'm a software developer, a maker and AI enthusiast. Check out my work](https://github.com/hamongkhang/hamongkhang/blob/f4eb03c766820e68d62feea977d666186b4adfdf/animation_image.gif)
+![Hey Pro, I'm Hà Mộng Khang. I'm a software developer, a maker and AI enthusiast. Check out my work](https://github.com/hamongkhang/hamongkhang/blob/main/animation_image.gif)
 
 <p align="center">
  <img src="https://komarev.com/ghpvc/?username=priyanshumay" alt="priyanshumay" />
