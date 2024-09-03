@@ -60,38 +60,6 @@
 <a href="https://github.com/https://github.com/psf/black"><img src="https://img.shields.io/badge/github-black.svg?style=for-the-badge&logo=github&logoColor=black&labelColor=ffffff" alt="github"></a>
 
 </p><br>
-
-```
-                             \\\\\\\
-                            \\\\\\\\\\\\
-                          \\\\\\\\\\\\\\\
-  -----------,-|           |C>   // )\\\\|
-           ,','|          /    || ,'/////|
----------,','  |         (,    ||   /////
-         ||    |          \\  ||||//''''|
-         ||    |           |||||||     _|
-         ||    |______      `````\____/ \
-         ||    |     ,|         _/_____/ \
-         ||  ,'    ,' |        /          |
-         ||,'    ,'   |       |         \  |
-_________|/    ,'     |      /           | |
-_____________,'      ,',_____|      |    | |
-             |     ,','      |      |    | |
-             |   ,','    ____|_____/    /  |
-             | ,','  __/ |             /   |
-_____________|','   ///_/-------------/   |
-              |HaMongKhang===========,'
-```
-<img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-
-```sh
-**- 🔭 I’m currently working on Passerellesnumeriques**
-**- 🌱 I’m currently learning all the languages**
-**- 👯 I’m looking to collaborate on KMS**
-**- 🤔 I’m looking for help with Mr. Dinh**
-**- 💬 Ask me about anything**
-**- 📫 Job: software developer**
-```
 <br />
 
 **Languages and Tools:**  
